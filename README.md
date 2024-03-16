@@ -1,4 +1,4 @@
-# Web programiranje
+# web_programiranje
 Materijali za kurs web programiranja
 
 ## Primeri
