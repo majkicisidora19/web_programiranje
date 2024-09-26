@@ -15,7 +15,7 @@ input{
     /* ivica */
     border: none; 
     border-radius: 5px; 
-    padding: 20px 30px; 
+    padding: 20px; 
 }
 
 input[type="button"] { 
