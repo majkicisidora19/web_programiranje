@@ -6,7 +6,7 @@ Materijali za kurs web programiranja
 2. [Cas 2](/cas2/index.html)
 
 ## Dodatni zadaci na casu
-1. [Cas 2, Kviz] (/cas2/kviz.html)
+1. [Kviz] (/cas2/kviz.html)
 
 ## Primeri
 1. [Klavir](/klavir/index.html)
