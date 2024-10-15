@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    border: 20px solid green;
+    border-radius: 5px;
+}
+
+button {
+    width: 200px;
+
+    background-color: green;
+    color: white;
+    font-size: medium;
+
+    padding: 10px 20px;
+    text-align: center;
+
+    margin: 5px;
+
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: greenyellow;
+    color: black;
+}

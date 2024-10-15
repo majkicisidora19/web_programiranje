@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    color: gray;
+    margin: 0;
+}
+
+h1 {
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+    /* razlika izmedju padding i margin */
+    padding: 20px;
+    margin: 0;
+}
+
+h2 {
+    color: green;
+    border-bottom: 2px solid white;
+    padding: 0 20px;
+}
+
+h3 {
+    padding: 0 40px;
+}
+
+p{
+    padding: 0 40px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+table th {
+    background-color: green;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: white;
+}
+
+a{
+    color: grey;
+}
+
+a:hover {
+    color: white;
+}
